@@ -11,4 +11,3 @@ Developed by [@TheiPhoneDev](https://twitter.com/TheiPhoneDev_)
 
 # Mobile screeshots
 
-![alt text](Mobile screenshots/IMG_3678.PNG)
