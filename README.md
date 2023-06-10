@@ -11,4 +11,4 @@ Developed by [@TheiPhoneDev](https://twitter.com/TheiPhoneDev_)
 
 # Mobile screeshots
 
-![](Mobile Screenshots/IMG_3678.PNG)
+![Mobile screenshots](IMG_3678.PNG)
